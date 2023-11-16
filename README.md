@@ -12,7 +12,7 @@
   Também é possível definir as tarefas que você deseja realizar, e conclui-las durante o tempo de foco clicando no ✅ ao lado da tarefa (tarefas são consideradas concluídas após a finalização do timer). Elas podem ser editadas, excluídas e inseridas quantas vezes necessário!
   
  ## 🎆 Como acessar? 
- Além de baixar os arquivos na sua máquina, você também pode acessar esse site através do [Vercel](https://fokus-rosy.vercel.app)) 
+ Além de baixar os arquivos na sua máquina, você também pode acessar esse site através do [Vercel](https://fokus-rosy.vercel.app)
   
  ## 🎆 Linguagens e Ferramentas utilizadas 
  * HTML 
