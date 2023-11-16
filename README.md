@@ -8,6 +8,7 @@
   * **Descanso Longo:** 15 minutos - uma opção para aqueles que precisam de mais tempo após concluir tarefas complicadas
   
   Além disso, o site também contém a funcionalidade de ligar uma música caso desejado para acalmar no seu break ou realizando as tarefas!
+  
   Também é possível definir as tarefas que você deseja realizar, e conclui-las durante o tempo de foco clicando no ✅ ao lado da tarefa (tarefas são consideradas concluídas após a finalização do timer). Elas podem ser editadas, excluídas e inseridas quantas vezes necessário!
   
  ## 🎆 Como acessar? 
